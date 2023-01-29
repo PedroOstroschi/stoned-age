@@ -1,0 +1,15 @@
+.submitButton {
+    width: 100%;
+    height: fit-content;
+    font-size: 1rem;
+    padding: 14px 10px;
+    background-color: #283618;
+    color: #fefae0;
+    font-weight:500;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+
+    background: rgb(192,217,108);
+    background: linear-gradient(90deg, rgba(192,217,108,1) 0%, rgba(88,101,45,1) 100%);
+}
